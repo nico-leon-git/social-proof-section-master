@@ -22,7 +22,7 @@ body {
     font-weight: 500;
     text-align: center;
     padding-top: 3rem;
-    background-image: url(/images/bg-pattern-top-mobile.svg), url(/images/bg-pattern-bottom-mobile.svg);
+    background-image: url(images/bg-pattern-top-mobile.svg), url(images/bg-pattern-bottom-mobile.svg);
     background-repeat: no-repeat, no-repeat;
     background-position: top -1.5rem left 0, bottom 0 right 0;
     background-attachment: fixed;
@@ -59,7 +59,7 @@ body {
 
 .ratings::before {
     content: '';
-    background-image: url(/images/icon-star.svg);
+    background-image: url(images/icon-star.svg);
     background-repeat: space;
     display: block;
     width: 100px;
@@ -116,7 +116,7 @@ body {
     body {
         text-align: left;
         Font-size: 1rem;
-        background-image: url(/images/bg-pattern-top-desktop.svg), url(/images/bg-pattern-bottom-desktop.svg);
+        background-image: url(images/bg-pattern-top-desktop.svg), url(images/bg-pattern-bottom-desktop.svg);
     }
 
     main {
